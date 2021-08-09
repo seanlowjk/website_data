@@ -1,19 +1,26 @@
 {
     "experiences": [
         {
-            "title": "NUS CS2030: Programming Methodology II",
-            "role": "Teaching Assistant",
-            "duration": "Aug 2019 - ",
-            "description":
-            "Facilitated the teaching of Object-Oriented Programming, Fundamental Software Engineering Principles and Java 11 Streams Marked and went through coding to give feedback to undergraduates to improve general code quality and fundamental software engineering principles."
-        },
+            "title": "Shopee", 
+            "role": "Web Backend Intern", 
+            "duration": "May 2021 - Jul 2021", 
+            "description": 
+            "Worked as a Web Backend Intern to maintain and develop features for payment channels in the Shopee marketplace. Developed new features to promote payment channels and control traffic for payment channel endpoints. "
+        }, 
         {
             "title": "NUS CS2102: Database Systems", 
             "role": "Teaching Assistant", 
-            "duration": "Jan 2021 - Apr 2021", 
+            "duration": "Jan 2021 - ", 
             "description": 
-            "Facilitated the teaching of Relational Algebra, ER Diagram, SQL, Functional Dependencies and Normalization as part of the  course curriculum. Went through tutorial submissions and solutions to clarify uunderstanding and review concepts learnt throughout the semester."
+            "Facilitated the teaching of Relational Algebra, ER Diagram, SQL, Functional Dependencies and Normalization as part of the course curriculum. Went through tutorial submissions and solutions to clarify uunderstanding and review concepts learnt throughout the semester."
         }, 
+        {
+            "title": "NUS CS2030: Programming Methodology II",
+            "role": "Teaching Assistant",
+            "duration": "Aug 2019 - May 2021",
+            "description":
+            "Facilitated the teaching of Object-Oriented Programming, Fundamental Software Engineering Principles and Java 11 Streams. Marked and went through coding to give feedback to undergraduates to improve general code quality and fundamental software engineering principles."
+        },
         {
             "title": "Source Academy",
             "role": "Research Intern",
